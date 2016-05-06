@@ -1,0 +1,10 @@
+Bonus Phase:
+
+The user interface is developed for Emerils Kitchen where the kitchen owner can view the list of food items available which loaded on page on every insert, delete of food items. 
+
+Get Total button gives the total price of food items present. 
+
+A new food item can be added by clicking on Add Food by entering the food item and price.
+
+On every addition or deletion, the current list of food items and Get Total values are reflected immediately.
+
